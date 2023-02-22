@@ -1,0 +1,65 @@
+{
+    "Raw data Info.": {
+        "raw_data_ID": "L-210929_G06_J_UC-13_002",
+        "location_ID": "G06",
+        "process_ID": "J",
+        "situation_ID": "UC-13",
+        "situation_description": "빈 파렛트의 보관상태 및 적치상태가 미정돈된 상태(상황태깅)",
+        "copyrighter": "㈜미디어그룹사람과숲",
+        "resolution": [
+            1920,
+            1080
+        ],
+        "date": "2021-09-29",
+        "start_time": "13:34:00",
+        "end_time": "13:35:35",
+        "length": "95",
+        "lux": 150,
+        "fps": 30,
+        "f-stop": "F/4.0",
+        "exposure_time": "1/80",
+        "device": 1,
+        "file_extension": "mp4"
+    },
+    "Source data Info.": {
+        "source_data_ID": "L-210929_G06_J_UC-13_002_0034",
+        "file_extension": "jpg"
+    },
+    "Learning data info.": {
+        "path": "./작업환경/파렛트,랙/불안전한 상태(UC)",
+        "json_data_ID": "L-210929_G06_J_UC-13_002_0034",
+        "file_extension": "json",
+        "annotation": [
+            {
+                "class_id": "WO-01",
+                "type": "box",
+                "coord": [
+                    718.92593006838,
+                    291.02056158756,
+                    320.54668950161,
+                    788.97943841244
+                ]
+            },
+            {
+                "class_id": "SO-02",
+                "type": "box",
+                "coord": [
+                    1270.452875197,
+                    437.01336673931,
+                    649.54712480298,
+                    642.98663326069
+                ]
+            },
+            {
+                "class_id": "UC-13",
+                "type": "box",
+                "coord": [
+                    523.1526799458,
+                    403.85115065547,
+                    819.69114599373,
+                    661.4061808672
+                ]
+            }
+        ]
+    }
+}

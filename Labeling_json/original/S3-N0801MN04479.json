@@ -1,0 +1,30 @@
+﻿{
+  "image": {
+    "date": "20201210",
+    "path": "S3-N0801MN04470",
+    "filename": "S3-N0801MN04479.jpg",
+    "copyrighter": "\ubbf8\ub514\uc5b4\uadf8\ub8f9\uc0ac\ub78c\uacfc\uc232(\ucee8)",
+    "H_DPI": 96,
+    "location": "08",
+    "V_DPI": 96,
+    "bit": "24",
+    "resolution": [
+      1920,
+      1080
+    ]
+  },
+  "annotations": [
+    {
+      "data ID": "S3",
+      "middle classification": "\ubb34\uad00\uc52c",
+      "flags": "not occluded, not truncated",
+      "box": [
+        1669,
+        719,
+        1757,
+        854
+      ],
+      "class": "11"
+    }
+  ]
+}
