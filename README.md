@@ -1,4 +1,4 @@
-# AI 및 데이터 분석 개인 프로젝트 및 
+# AI 및 데이터 분석 개인 프로젝트 및 공부
 
 ## [ICT AI 직무 기출 코딩테스트 문제 풀기](https://github.com/0cars0903/Personal_Project/tree/main/ICT_Coding_test)
 ## [json 형식의 Annotation 분석](https://github.com/0cars0903/Personal_Project/tree/main/Labeling_json)
